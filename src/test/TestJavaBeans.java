@@ -9,5 +9,6 @@ public class TestJavaBeans {
         persona.setApellido("Perez");
         System.out.println("persona = " + persona);
 
+        System.out.println("Jijija");
     }
 }
